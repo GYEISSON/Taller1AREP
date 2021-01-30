@@ -13,6 +13,7 @@ public class App
         System.out.println( "Hello LinkedList!" );
         LinkedList lista = new LinkedList();
         Scanner scan = new Scanner(System.in);
+        System.out.println("Entry number of values: ");
         int n = scan.nextInt();
         for(int i=0;i<n;i++) {
         	lista.addFirs(scan.nextDouble());
