@@ -43,7 +43,7 @@ mvn test
 * Java - Lenguaje de programación.
 
 ## Autor
-* **Yeisson Gualdron ** - [GYEISSON](https://github.com/GYEISSON)
+* **Yeisson Gualdron** - [GYEISSON](https://github.com/GYEISSON)
 
 ## Licencia
 Este proyecto está bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE.txt](LICENSE.txt) para detalles.
